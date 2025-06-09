@@ -83,7 +83,7 @@ Most people have **rated 3 or lower** which is causing **half of the customers t
 - Figured out the **best model** to predict *class 0 unhappy customers* as this should be the main focus of the business since they are **almost half** and the best model is **Xgboost** which has an **f1 score** of **0.73** after performing **state of the art hyperparameter optimizations**
 
 
-# **Summarize What You Did:**
+# **Summary:**
 
 - **Performed exploratory data analysis** to understand the dataset  
 - **Identified key factors** leading to dissatisfaction and analyzed trends using *univariate analysis*  
